@@ -13,6 +13,7 @@
 		EE420D442C5796E800A41A46 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EE420D422C5796E800A41A46 /* Main.storyboard */; };
 		EE420D462C5796EA00A41A46 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EE420D452C5796EA00A41A46 /* Assets.xcassets */; };
 		EE420D492C5796EA00A41A46 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EE420D472C5796EA00A41A46 /* LaunchScreen.storyboard */; };
+		EE420D512C57971000A41A46 /* Animation.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE420D502C57971000A41A46 /* Animation.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		EE420D452C5796EA00A41A46 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EE420D482C5796EA00A41A46 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EE420D4A2C5796EA00A41A46 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EE420D502C57971000A41A46 /* Animation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Animation.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				EE420D3C2C5796E800A41A46 /* AppDelegate.swift */,
 				EE420D3E2C5796E800A41A46 /* SceneDelegate.swift */,
 				EE420D402C5796E800A41A46 /* ViewController.swift */,
+				EE420D502C57971000A41A46 /* Animation.swift */,
 				EE420D422C5796E800A41A46 /* Main.storyboard */,
 				EE420D452C5796EA00A41A46 /* Assets.xcassets */,
 				EE420D472C5796EA00A41A46 /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				EE420D412C5796E800A41A46 /* ViewController.swift in Sources */,
 				EE420D3D2C5796E800A41A46 /* AppDelegate.swift in Sources */,
+				EE420D512C57971000A41A46 /* Animation.swift in Sources */,
 				EE420D3F2C5796E800A41A46 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
